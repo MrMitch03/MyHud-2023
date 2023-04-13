@@ -3028,6 +3028,25 @@ Scheme
 				"antialias" "1"
 			}
 		}
+				CreatoDisplay-Regular8
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Regular"
+				"tall"		"8"
+				"antialias" "1"
+			}
+				CreatoDisplay-Regular10
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Regular"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+			
+		}
 		CreatoDisplay-Regular12
 		{
 			"1"
