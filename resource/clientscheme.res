@@ -3091,6 +3091,87 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		CreatoDisplay-Regular56
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Bold"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		CreatoDisplay-Bold12
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		CreatoDisplay-Bold16
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		CreatoDisplay-Bold24
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		CreatoDisplay-Bold32
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		CreatoDisplay-Bold36
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		CreatoDisplay-Bold42
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		CreatoDisplay-Bold48
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		CreatoDisplay-Bold56
+		{
+			"1"
+			{
+				"name"		"CreatoDisplay-Bold"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
 		
 	}
 	
