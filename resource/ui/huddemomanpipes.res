@@ -10,9 +10,9 @@
 		"wide"			"76"
 		"wide_minmode"	"56"
 		"tall"			"38"
-		"visible"		"1"
+		"visible"		"0"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_red"
@@ -25,8 +25,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ChargeLabel"
-		"xpos"					"25"
-		"ypos"					"27"
+		"xpos"					"9999999"
+		"ypos"					"9999999"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
@@ -48,13 +48,12 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ChargeMeter"
 		"font"					"Default"
-		"xpos"					"25"
-		"ypos"					"23"
+		"xpos"					"40"
+		"ypos"					"93"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
 		"zpos"					"2"
-		"wide"					"40"
-		"wide_minmode"			"50"
+		"wide"					"80"
 		"tall"					"6"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
@@ -69,8 +68,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PipesPresentPanel"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"45"
+		"ypos"			"175"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"
@@ -116,9 +115,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"HudFontMedium"
-			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMediumBig"
+			"font"			"CreatoDisplay-Bold24"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -141,9 +138,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"HudFontMedium"
-			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMediumBig"
+			"font"			"CreatoDisplay-Bold24"
 			"fgcolor"		"black"
 		}		
 	}
@@ -152,8 +147,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"NoPipesPresentPanel"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"45"
+		"ypos"			"175"
 		"zpos"			"1"
 		"wide"			"100"
 		"tall"			"50"
@@ -199,9 +194,8 @@
 			"textAlignment"	"west"
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"HudFontMedium"
-			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMediumBig"
+			"font"			"CreatoDisplay-Bold24"
+
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -224,9 +218,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"HudFontMedium"
-			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMediumBig"
+			"font"			"CreatoDisplay-Bold24"
 			"fgcolor"		"black"
 		}			
 	}				

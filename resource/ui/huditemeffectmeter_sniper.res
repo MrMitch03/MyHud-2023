@@ -7,7 +7,7 @@
 		"enabled"		"1"
 		"x_offset"		"40"
 		"xpos"			"r164"	[$WIN32]
-		"ypos"			"r51"	[$WIN32]
+		"ypos"			"r56"	[$WIN32]
 		"xpos_minmode"	"r30"	[$WIN32]
 		"ypos_minmode"	"r94"	[$WIN32]
 		"xpos"			"r194"	[$X360]
@@ -27,9 +27,9 @@
 		"zpos"			"0"
 		"wide"			"76"
 		"tall"			"44"
-		"visible"		"1"
+		"visible"		"0"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_red"
@@ -56,7 +56,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFFontSmall"
+		"font"					"CreatoDisplay-Regular8"
 	}
 
 	"ItemEffectMeter"
@@ -98,6 +98,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
+		"font"					"CreatoDisplay-Bold24"
+		"fgcolor"               "255 255 255 255"
 	}
 }

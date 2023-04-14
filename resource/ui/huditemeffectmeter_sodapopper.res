@@ -6,14 +6,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 //		"x_offset"		"40"
-		"xpos"			"r258"	[$WIN32]
-		"ypos"			"r57"	[$WIN32]
+		"xpos"			"c-80"	[$WIN32]
+		"ypos"			"c0"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos_minmode"	"r83"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r124"	[$X360]
-		"wide"			"100"
-		"tall"			"50"
+		"wide"			"500"
+		"tall"			"250"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -27,9 +27,9 @@
 		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"50"
-		"visible"		"1"
+		"visible"		"0"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_horiz3_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz3_red"
@@ -49,12 +49,12 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"visible_minmode"		"1"
 		"ypos_minmode"			"1"
 		"xpos_minmode"			"0"
 		"textAlignment_minmode"			"west"
-		"enabled"				"1"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"center"
@@ -68,12 +68,12 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"47"
-		"ypos"					"23"
+		"xpos"					"41"
+		"ypos"					"100"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
 		"zpos"					"2"
-		"wide"					"30"
+		"wide"					"80"
 		"wide_minmode"			"50"
 		"tall"					"5"				
 		"autoResize"			"0"
